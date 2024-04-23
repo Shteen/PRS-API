@@ -1,0 +1,14 @@
+C:\Users\PLAURENA\source\repos\PRS.CORE\obj\Debug\net8.0\PRS.CORE.csproj.AssemblyReference.cache
+C:\Users\PLAURENA\source\repos\PRS.CORE\obj\Debug\net8.0\PRS.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PLAURENA\source\repos\PRS.CORE\obj\Debug\net8.0\PRS.CORE.AssemblyInfoInputs.cache
+C:\Users\PLAURENA\source\repos\PRS.CORE\obj\Debug\net8.0\PRS.CORE.AssemblyInfo.cs
+C:\Users\PLAURENA\source\repos\PRS.CORE\obj\Debug\net8.0\PRS.CORE.csproj.CoreCompileInputs.cache
+C:\Users\PLAURENA\source\repos\PRS.CORE\bin\Debug\net8.0\PRS.CORE.deps.json
+C:\Users\PLAURENA\source\repos\PRS.CORE\bin\Debug\net8.0\PRS.CORE.runtimeconfig.json
+C:\Users\PLAURENA\source\repos\PRS.CORE\bin\Debug\net8.0\PRS.CORE.dll
+C:\Users\PLAURENA\source\repos\PRS.CORE\bin\Debug\net8.0\PRS.CORE.pdb
+C:\Users\PLAURENA\source\repos\PRS.CORE\obj\Debug\net8.0\PRS.CORE.dll
+C:\Users\PLAURENA\source\repos\PRS.CORE\obj\Debug\net8.0\refint\PRS.CORE.dll
+C:\Users\PLAURENA\source\repos\PRS.CORE\obj\Debug\net8.0\PRS.CORE.pdb
+C:\Users\PLAURENA\source\repos\PRS.CORE\obj\Debug\net8.0\PRS.CORE.genruntimeconfig.cache
+C:\Users\PLAURENA\source\repos\PRS.CORE\obj\Debug\net8.0\ref\PRS.CORE.dll
